@@ -6,8 +6,9 @@ This project contains two Minecraft mods that implement two different pathfindin
 
 To use these mods, you'll need to install them separately in your Minecraft instance:
 
-1. Download the Dijkstra's algorithm mod and the Bellman-Ford algorithm mod.
+1. Download the Dijkstra's algorithm mod and the Bellman-Ford algorithm mod (.jar) from the respectice folders.
 2. Install each mod by placing the downloaded files in the 'mods' folder of your Minecraft installation.
+3. Make sure to download Minecraft Forge 1.12
 
 ## Usage
 
